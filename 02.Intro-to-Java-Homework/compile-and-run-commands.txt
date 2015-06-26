@@ -1,0 +1,7 @@
+         Console-Based Compilation
+            cmd-commands
+1. mkdir Homework-Intro-Java // създаваме си директория 
+2. cd Homework-Intro-Java // влизаме в нея 
+3. notepad SumTwoNumbers.java // правим си файл с разширение .java и в него си запазваме source code-a 
+4. "c:\Program Files\Java\jdk1.8.0_25\bin\javac.exe" SumTwoNumbers.java // стази команда извикваме javac и компилираме нашата програма/файл/
+5. java SumTwoNumbers // с тази команда извикваме JVM и програмата ни стартира 
